@@ -1,2 +1,2 @@
 # test-git
-projecte de proba per practicar git i makedown
+projecte de proba per practicar git i markdown
